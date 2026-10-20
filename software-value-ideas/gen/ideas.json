@@ -1,0 +1,152 @@
+[
+ {
+  "id": "adobe",
+  "page": 5,
+  "price": 247,
+  "eyebrow": "Idea 1 · Adobe (ADBE) · $247 · Long, full size",
+  "title": "Adobe: a 9% owner cash yield, priced for no growth",
+  "debate": "Bears say generative AI commoditises creative tools. Net new ARR fell 36% as Adobe went freemium; Wells Fargo and HSBC downgraded in October.",
+  "view": [
+   "<b style=\"color:#14202B\">Growth is intact.</b> Q3 revenue +13%, total ARR +11%, and AI-first ARR above $650M, up 150%.",
+   "<b style=\"color:#14202B\">Reach is widening.</b> About 1B monthly users; freemium users +70% feed Firefly and Acrobat upgrades.",
+   "<b style=\"color:#14202B\">The buyback is huge.</b> $24.6B of capacity is 26% of the market cap; at $247 it retires ~9% of shares a year."
+  ],
+  "wrong": "Net new ARR keeps falling through FY27, or the new CEO (from 1 Dec) trades margin for growth without a payback.",
+  "keys": [
+   [
+    "Market cap · EV",
+    "$96B · $97B"
+   ],
+   [
+    "Owner FCF, trailing",
+    "$8.5B"
+   ],
+   [
+    "Owner FCF yield",
+    "8.9%"
+   ],
+   [
+    "Growth priced in",
+    "0.6% a year"
+   ]
+  ],
+  "scen": [
+   [
+    "Bear",
+    165,
+    -33
+   ],
+   [
+    "Base",
+    340,
+    38
+   ],
+   [
+    "Bull",
+    465,
+    88
+   ]
+  ],
+  "foot": "Base: 14x FY27E owner FCF/share; bear: 8x after a 10% FCF fall; bull: 18x. Sources: Adobe Q3 FY26 8-K and 10-Q."
+ },
+ {
+  "id": "intuit",
+  "page": 6,
+  "price": 326,
+  "eyebrow": "Idea 2 · Intuit (INTU) · $326 · Long, half size",
+  "title": "Intuit: the small-business ledger at 10x free cash flow",
+  "debate": "Bears say AI agents will file taxes for free. TurboTax units fell 2%, and FY27 revenue growth slows to 9–10% from 14%.",
+  "view": [
+   "<b style=\"color:#14202B\">TurboTax is a quarter of sales.</b> The business platform, 54%, grew 18%; QuickBooks Online Accounting +23%.",
+   "<b style=\"color:#14202B\">QuickBooks is the system of record</b> for small firms and their accountants; agents need its ledger and payroll data.",
+   "<b style=\"color:#14202B\">Cost cuts and cash return.</b> FY27 GAAP margin rises to 32%; FY26 returned $6.8B, 8% of today’s market cap."
+  ],
+  "wrong": "TurboTax loses share again in the 2027 season despite AI-native filing, or QuickBooks growth slips below 10%.",
+  "keys": [
+   [
+    "Market cap · EV",
+    "$87B · $88B"
+   ],
+   [
+    "Owner FCF, FY26",
+    "$6.6B"
+   ],
+   [
+    "Owner FCF yield",
+    "7.6%"
+   ],
+   [
+    "Growth priced in",
+    "1.8% a year"
+   ]
+  ],
+  "scen": [
+   [
+    "Bear",
+    210,
+    -36
+   ],
+   [
+    "Base",
+    400,
+    23
+   ],
+   [
+    "Bull",
+    525,
+    61
+   ]
+  ],
+  "foot": "Half size after a 13% rally since 6 Oct; add below $300. FY26 FCF includes a tax benefit; on FY27E the yield is 7.1%."
+ },
+ {
+  "id": "godaddy",
+  "page": 7,
+  "price": 107,
+  "eyebrow": "Idea 3 · GoDaddy (GDDY) · $107 · Long, half size",
+  "title": "GoDaddy: a 10% owner cash yield on a domain toll road",
+  "debate": "Bears say AI search and AI site builders shrink small-business web presence. A .com promotion hurt bookings; RBC downgraded on AI risk (12 Oct).",
+  "view": [
+   "<b style=\"color:#14202B\">Domains are identity.</b> Businesses, and now AI agents, need them; the .com/.net base grew 5% in Q2.",
+   "<b style=\"color:#14202B\">Cash flow is still rising.</b> About $1.8B of 2026 FCF is guided, up ~12%; that covers net debt in 1.5 years.",
+   "<b style=\"color:#14202B\">Buybacks, plus a possible bid.</b> Buybacks retire ~13% of shares a year; Gen Digital made an unsolicited approach (FT, 24 Sep)."
+  ],
+  "wrong": "Bookings keep lagging revenue into 2027, or AI builders take the website and marketing add-ons that drive margins.",
+  "keys": [
+   [
+    "Market cap · EV",
+    "$13.6B · $16.3B"
+   ],
+   [
+    "Owner FCF, trailing",
+    "$1.4B"
+   ],
+   [
+    "Owner FCF yield",
+    "10.4%"
+   ],
+   [
+    "Growth priced in",
+    "0.8% a year"
+   ]
+  ],
+  "scen": [
+   [
+    "Bear",
+    60,
+    -44
+   ],
+   [
+    "Base",
+    140,
+    31
+   ],
+   [
+    "Bull",
+    205,
+    92
+   ]
+  ],
+  "foot": "Base: 10x 2027E owner FCF/share; bear: 6x after a 15% FCF fall; bull: 14x. Sources: GoDaddy Q2-26 8-K, Verisign Q2-26."
+ }
+]
